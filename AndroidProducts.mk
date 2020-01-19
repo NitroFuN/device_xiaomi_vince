@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ion_vince.mk
+    $(LOCAL_DIR)/revengeos_vince.mk
 
 COMMON_LUNCH_CHOICES := \
-    ion_vince-user \
-    ion_vince-userdebug \
-    ion_vince-eng
+    revengeos_vince-user \
+    revengeos_vince-userdebug \
+    revengeos_vince-eng
